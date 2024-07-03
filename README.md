@@ -1,8 +1,16 @@
 # UK-railway-Analysis
-Conducted an in-depth analysis of railway transaction data to identify trends and insights.
-Tools Used: SQL for data processing, Power BI for visualization.
-Key Activities:
-1. Created and managed a relational database to store railway transaction data.
-2. Designed and implemented queries to extract, transform, and load data into the analysis framework.
-3. Developed comprehensive visual reports and dashboards in Power BI to present findings on ticket sales, payment methods,
-travel patterns, and more.
+The SQL Analysis case study_
+Identify Peak Purchase Times and Their Impact on Delays.
+Analyze Journey Patterns of Frequent Travelers.
+Revenue Loss Due to Delays with Refund Requests.
+Impact of Railcards on Ticket Prices and Journey Delays.
+Journey Performance by Departure and Arrival Stations.
+Revenue and Delay Analysis by Railcard and Station.
+Journey Delay Impact Analysis by Hour of Day.
+
+For Visual reports in Power BI_
+Customer Loyalty and Retention Analysis.
+Impact of Journey Time on Customer Satisfaction.
+Profitability Analysis Based on Ticket Type and Class.
+Frequent Traveler Analysis with Dynamic Segmentation.
+Analyzing Delays to Optimize Train Schedule.
